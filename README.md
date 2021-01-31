@@ -1,4 +1,4 @@
-### Hi！༼ ∗ •̀ (oo) •́ ∗ ༽
+<center> ### Hi！༼ ∗ •̀ (oo) •́ ∗ ༽ </center>
 <!--
 **Chris-Li25/Chris-Li25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
